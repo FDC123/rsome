@@ -1,11 +1,10 @@
 Package: rsome
 Type: Package
-Title: What the Package Does (Title Case)
+Title: An Awesome R package)
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: CodeApe
+Maintainer: faustdelcam@gmail.com
+Description: Filter out unwanted columns.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
